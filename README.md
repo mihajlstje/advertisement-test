@@ -7,14 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Requirements (Local Environment)
+## Requirements
 
 - PHP 8.1.
 - MySQL 8.0
 - Composer 2.2
 - NPM latest
 
-## Installation (Local Environment)
+## Installation
 
 - composer install
 - cp .env.example .env
@@ -35,7 +35,7 @@
 
 - php artisan serve
 
-## URL for the Application
+## URL for the Application (Local Environment)
 
 - http://localhost:8000
 
