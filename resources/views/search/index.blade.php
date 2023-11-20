@@ -139,7 +139,7 @@
                                 <div class="flex flex-col lg:flex-row">
 
                                     <div class="w-3/12">
-                                        <img src="{{ asset($row->image) }}" class="w-full h-44 object-fit-cover overflow-clip-margin-unset">
+                                        <img src="{{ asset($row->image) }}" class="w-full h-44 object-fit-cover overflow-clip-margin-unset" alt="{{ $row->title }}">
                                     </div>
 
                                     <div class="w-5/12 pl-3">
