@@ -23,6 +23,11 @@
 - php artisan migrate
 - php artisan db:seed
 
+## Testing
+
+- php artisan config:clear
+- php artisan test
+
 ## Starting Application (Local Environment)
 
 - php artisan serve
